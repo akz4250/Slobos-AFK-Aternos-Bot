@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "akzstudioo.aternos.me",
-    "port": 12609,
+    "ip": "akadium.aternos.me",
+    "port": 35837,
     "version": "",
     "try-creative": false
   },
